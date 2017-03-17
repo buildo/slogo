@@ -2,7 +2,7 @@
 
 Slogo is a scala library for Structured Logging.
 
-Made with <3 by [buildo™](buildo.io)
+Made with <3 by [buildo™](https://buildo.io)
 
 ## Proof of Concept
 
