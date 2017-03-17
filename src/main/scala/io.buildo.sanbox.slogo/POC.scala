@@ -4,7 +4,7 @@ import java.time.Instant
 import java.util.UUID
 import org.apache.logging.log4j.{ LogManager, MarkerManager }
 
-object POC extends App with Log4j2Logging {
+object PoC extends App with Log4j2Logging {
   log.info("lorem ipsum")
   log.info("繰り返し € ànd poop 💩\"")
   log.info("lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum")
