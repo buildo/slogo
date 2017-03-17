@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="info" strict="true" packages="io.buildo.sandbox.slogo.log4j2">
+
+  <Appenders>
+    <Appender type="Console" name="STDOUT">
+      <Layout type="SlogoLayout"/>
+    </Appender>
+  </Appenders>
+
+  <Loggers>
+    <Root level="info">
+      <AppenderRef ref="STDOUT"/>
+    </Root>
+  </Loggers>
+
+</Configuration>
